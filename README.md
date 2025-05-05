@@ -1,8 +1,8 @@
 <a href="https://dub.co">
-  <img alt="Dub is the modern, open-source link attribution platform for short links, conversion tracking, and affiliate programs." src="https://github.com/dubinc/dub/assets/28986134/3815d859-afaa-48f9-a9b3-c09964e4d404">
+  <img alt="">
 </a>
 
-<h3 align="center">Dub</h3>
+<h3 align="center">Dub</h3 >
 
 <p align="center">
     The open-source link attribution platform.
@@ -63,7 +63,7 @@ You can self-host Dub for greater control over your data and design. [Read this 
 
 ## Contributing
 
-We love our contributors! Here's how you can contribute:
+We love contributors! Here's how you can contribute:
 
 - [Open an issue](https://github.com/dubinc/dub/issues) if you believe you've encountered a bug.
 - Follow the [local development guide](https://dub.co/docs/local-development) to get your local dev environment set up.
