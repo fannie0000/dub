@@ -1,5 +1,5 @@
 <a href="https://dub.co">
-  <img alt="">
+  <img alt="test">
 </a>
 
 <h3 align="center">Dub</h3 >
